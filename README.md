@@ -16,8 +16,7 @@ This project aims to ensure user safety by alerting them through notifications a
 
 -**Obstacle Detection:** The system detects obstacles in all directions (front, back, left, right). When an obstacle is detected, the app sends a notification to the user, and the headphones vibrate to indicate the direction of the obstacle.<br>
 
--**Directional Vibration Feedback:**
-  - **Front:** Both headphones vibrate simultaneously.
+-**Directional Vibration Feedback:**- **Front:** Both headphones vibrate simultaneously.
   - **Back:** Both headphones vibrate with a different tune.
   - **Left/Right:** The corresponding headphone vibrates.
 
