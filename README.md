@@ -50,7 +50,7 @@ System Hardware Images:<br>
 &nbsp;
 
 
-Android App Screenshot:
+Android App Screenshots:
 <p align="left">
   <img alt="screenshot" src="https://github.com/user-attachments/assets/c15e7c34-dc56-46e2-8646-14154ed22325" width="30%">
 &nbsp; &nbsp; &nbsp; &nbsp;
