@@ -14,16 +14,16 @@ This project aims to ensure user safety by alerting them through notifications a
 
 ## Key Features
 
--**Obstacle Detection:** The system detects obstacles in all directions (front, back, left, right). When an obstacle is detected, the app sends a notification to the user, and the headphones vibrate to indicate the direction of the obstacle.<br>
+- **Obstacle Detection:** The system detects obstacles in all directions (front, back, left, right). When an obstacle is detected, the app sends a notification to the user, and the headphones vibrate to indicate the direction of the obstacle.<br>
 
--**Directional Vibration Feedback:**
+- **Directional Vibration Feedback:**
   - **Front:** Both headphones vibrate simultaneously.
   - **Back:** Both headphones vibrate with a different tune.
   - **Left/Right:** The corresponding headphone vibrates.
 
--**Social Distance Mode:** This mode ensures the user maintains a safe distance (around 2.5 meters) from others in crowded places. The system checks all directions and alerts the user via the app and vibrations.<br>
+- **Social Distance Mode:** This mode ensures the user maintains a safe distance (around 2.5 meters) from others in crowded places. The system checks all directions and alerts the user via the app and vibrations.<br>
 
--**Bluetooth Connectivity:** The system connects to the Android app via Bluetooth, ensuring real-time communication between the phone and the safety system.
+- **Bluetooth Connectivity:** The system connects to the Android app via Bluetooth, ensuring real-time communication between the phone and the safety system.
 
 
 
